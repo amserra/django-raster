@@ -10,7 +10,7 @@
 
 # Distribution
 dist
-django_raster.egg-info
+django_raster4.egg-info
 
 # Docs build
 docs/_build
