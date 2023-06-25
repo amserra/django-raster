@@ -10,11 +10,11 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
     long_description = f.read()
 
 setup(
-    name='django-raster',
-    version='0.8.1',
-    url='https://github.com/geodesign/django-raster',
-    author='Daniel Wiesmann',
-    author_email='daniel@wiesmann.pt',
+    name='django-raster4',
+    version='0.0.1',
+    url='https://github.com/amserra/django-raster4',
+    author='Alexandre Serra',
+    author_email='me@alexandreserra.com',
     description='Raster file implementation for Django based on PostGis',
     long_description=long_description,
     long_description_content_type='text/x-rst',
