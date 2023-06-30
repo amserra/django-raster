@@ -11,7 +11,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
     name='django-raster4',
-    version='0.0.2',
+    version='0.0.3',
     url='https://github.com/amserra/django-raster4',
     author='Alexandre Serra',
     author_email='me@alexandreserra.com',
